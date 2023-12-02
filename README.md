@@ -8,3 +8,5 @@
 3. Go the shimoku_test folder
 4. Install dependencies => pip install -r requirements.txt
 5. Execute scripts => python3 main.py
+6. Check the graphics in your Shimoku dashboard
+7. That's all!
